@@ -1,0 +1,12 @@
+MDiff.pm
+mdiff_functions.h
+MANIFEST
+Makefile.PL
+Changes
+I
+test.pl
+MDiff.xs
+mdiff_functions.c
+distclean
+manifestbuilder
+makeitromscratch
